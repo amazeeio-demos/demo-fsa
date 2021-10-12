@@ -1,0 +1,6 @@
+name: demo-fsa
+recipe: lagoon
+config:
+  flavor: drupal
+  build:
+    - composer install
