@@ -21,6 +21,7 @@
         "cweagans/composer-patches": "1.7.1",
         "drupal/core-project-message": "9.2.4",
         "drupal/core-recommended": "9.2.4",
+        "drupal/fsa": "1.x-dev@dev",
         "drupal/lagoon_logs": "1.1.0",
         "drush/drush": "10.6.0",
         "zaporylie/composer-drupal-optimizations": "1.2.0"
