@@ -36,7 +36,11 @@ tasks:
 
 environments:
   main:
-    # routes:
+    routes:
+      - nginx:
+        - fsa.amazeeio.dev:
+          tls-acme: 'false'
+          insecure: Allow
     cronjobs:
       - name: drush cron
         schedule: "*/15 * * * *"
