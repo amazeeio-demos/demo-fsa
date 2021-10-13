@@ -1,0 +1,14 @@
+uuid: 0c798360-f99c-43c8-b175-fc0aeb3144e5
+langcode: en
+status: true
+dependencies:
+  config:
+    - fastly_streamline_access.settings
+    - key.key.fastly_api_key
+id: fastly_api_key
+label: 'Fastly API Key'
+config_type: system.simple
+config_prefix: ''
+config_name: fastly_streamline_access.settings
+config_item: api_token
+key_id: fastly_api_key
