@@ -1,5 +1,7 @@
 ignored_config_entities:
   - key.key.fastly_api_key
   - key.config_override.fastly_api_key
+  - key.key.fsa_service_id
+  - key.config_override.fsa_service_id
 _core:
   default_config_hash: UVH1aJ4b44UM-VdPVN7hNNuuVqfReJxwfVeDQH1Hvsk

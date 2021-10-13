@@ -1,0 +1,14 @@
+uuid: a2cfd3c6-8899-4d4e-9305-7a48c14654e5
+langcode: en
+status: true
+dependencies:
+  config:
+    - fastly_streamline_access.settings
+    - key.key.fsa_service_id
+id: fsa_service_id
+label: 'FSA Service Id'
+config_type: system.simple
+config_prefix: ''
+config_name: fastly_streamline_access.settings
+config_item: service_id
+key_id: fsa_service_id
