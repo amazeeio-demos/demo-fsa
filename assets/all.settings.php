@@ -27,3 +27,5 @@ if (getenv('LAGOON_ENVIRONMENT_TYPE') !== 'production') {
      */
     $settings['skip_permissions_hardening'] = TRUE;
 }
+
+$settings['file_private_path'] = 'sites/default/files/private';

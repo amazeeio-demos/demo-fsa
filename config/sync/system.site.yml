@@ -1,7 +1,7 @@
-uuid: cb64ba0a-e3d0-4316-a3ec-bf19b838c803
-name: 'DrupalCon Europe 2021'
+uuid: c624d459-c995-4d12-8dc9-24de72a2175c
+name: 'Drush Site-Install'
 mail: admin@example.com
-slogan: '2021 FTW'
+slogan: ''
 page:
   403: ''
   404: ''
