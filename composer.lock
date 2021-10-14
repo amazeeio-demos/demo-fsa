@@ -1931,7 +1931,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/fsa.git",
-                "reference": "6925701848017322cab7f6dee21a413f9e22d91d"
+                "reference": "22eab927bfaffb51a105883cb81470c7ab4e5f78"
             },
             "require": {
                 "drupal/core": "^8 || ^9"
@@ -1946,7 +1946,7 @@
                 },
                 "drupal": {
                     "version": "8.x-1.x-dev",
-                    "datestamp": "1634005235",
+                    "datestamp": "1634088633",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"
@@ -1967,7 +1967,7 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/fsa"
             },
-            "time": "2021-10-13T01:30:07+00:00"
+            "time": "2021-10-14T16:44:18+00:00"
         },
         {
             "name": "drupal/key",
