@@ -38,7 +38,7 @@ environments:
   main:
     routes:
       - nginx:
-        - fsa.amazeeio.dev:
+        - demo-fsa.amazeeio.de:
             tls-acme: 'true'
             insecure: Redirect
     cronjobs:
