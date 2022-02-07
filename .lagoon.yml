@@ -36,11 +36,6 @@ tasks:
 
 environments:
   main:
-    routes:
-      - nginx:
-        - demo-fsa.amazeeio.de:
-            tls-acme: 'true'
-            insecure: Redirect
     cronjobs:
       - name: drush cron
         schedule: "*/15 * * * *"
